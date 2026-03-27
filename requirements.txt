@@ -1,7 +1,0 @@
-streamlit
-pandas
-plotly
-json
-plotly
-datetime
-random
